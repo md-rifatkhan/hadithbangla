@@ -34,9 +34,13 @@ Welcome to Hadith Bangla, a collection of authentic Hadiths from various renowne
 
 ### Hadith Endpoints
 
-Replace `Chapter` with `Hadith` in the above URLs to access individual Hadiths.
+- Sahih Bukhari: `https://cdn.jsdelivr.net/gh/md-rifatkhan/hadithbangla@main/Bukhari/hadith/1.json`
+- Sahih Muslim: `https://cdn.jsdelivr.net/gh/md-rifatkhan/hadithbangla@main/Muslim/hadith/1.json`
+- Sunan Abu Dawood: `https://cdn.jsdelivr.net/gh/md-rifatkhan/hadithbangla@main/AbuDaud/hadith/1.json`
+- Sunan Ibn Majah: `https://cdn.jsdelivr.net/gh/md-rifatkhan/hadithbangla@main/Ibne-Mazah/hadith/1.json`
+- Sunan An-Nasa'i: `https://cdn.jsdelivr.net/gh/md-rifatkhan/hadithbangla@main/Al-Nasai/hadith/1.json`
+- Sunan At-Tirmidhi: `https://cdn.jsdelivr.net/gh/md-rifatkhan/hadithbangla@main/At-tirmizi/hadith/1.json`
 
-Example: For Sahih Bukhari Hadith 1 - `https://cdn.jsdelivr.net/gh/md-rifatkhan/hadithbangla@main/Bukhari/Hadith/1.json`
 
 Feel free to explore and gain knowledge from the rich Islamic tradition encapsulated in these Hadiths.
 
