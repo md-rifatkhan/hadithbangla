@@ -19,7 +19,7 @@
 </table>
 # Hadith Bangla
 
-Welcome to Hadith Bangla, a collection of authentic Hadiths from various renowned books in Bengali. Explore the sayings and actions of Prophet Muhammad (peace be upon him) categorized by different Hadith books.
+Welcome to Hadith Bangla, a collection of authentic Hadiths
 
 ## Hadith API Endpoints
 
